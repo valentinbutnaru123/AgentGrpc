@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "FMD+pvCibiNSZCRv90VW42REBQYgc7i9osc54Exwnw70Hx2Bdb1iun5ec57n8gOPkLh5efSe6/wJ1L9UFdjGOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\butna\\source\\repos\\Agent Grpc\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\butna\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
+    "C:\\Users\\butna\\.nuget\\packages\\grpc\\2.34.0\\grpc.2.34.0.nupkg.sha512",
+    "C:\\Users\\butna\\.nuget\\packages\\grpc.core\\2.34.0\\grpc.core.2.34.0.nupkg.sha512",
+    "C:\\Users\\butna\\.nuget\\packages\\grpc.core.api\\2.34.0\\grpc.core.api.2.34.0.nupkg.sha512",
+    "C:\\Users\\butna\\.nuget\\packages\\grpc.tools\\2.34.0\\grpc.tools.2.34.0.nupkg.sha512",
+    "C:\\Users\\butna\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\butna\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
